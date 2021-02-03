@@ -17,5 +17,6 @@ def sumaTodosLosCuadrados(limitTo):
 print(sumaTodos(100))
 print(sumaTodosLosCuadrados(3))
 
+#prueba
 
   
