@@ -5,7 +5,6 @@ def sumaTodos(limitTo):
         
     return resultado
 
-print(sumaTodos(100))
 
 def sumaTodosLosCuadrados(limitTo):
     resultado = 0
